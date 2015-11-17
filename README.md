@@ -25,7 +25,7 @@ Go环境安装好后，克隆本仓库
 	$ go build -o hello 01-hello.go
 	$ ./hello
 
-## Development Eev
+## Development Env
 
 Sublime 是个不错的选择， 安装了Package Control后，按Ctrl+Shift+P输入Install Package，在弹出的输入框中输入 GoSublime， 安装后，编辑.go文件将自带提示和自动格式化。
 
