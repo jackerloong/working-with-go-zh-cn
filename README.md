@@ -7,6 +7,7 @@
 Go [官方二进制发行版](https://golang.org/dl/)可支持FreeBSD、Linux、Mac OS X（Snow Leopard、Lion和Mountain Lion）、 NetBSD和Windows操作系统以及32位（386）和64位（amd64）的 x86 处理器架构。
 
 如果上不去，可以去[golangtc.com](http://golangtc.com/download) 下载。
+例外，官方文档也可以去[go-zh.org](https://go-zh.org/)
 
 ## Clone and Go
 
